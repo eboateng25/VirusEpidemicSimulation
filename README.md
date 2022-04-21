@@ -1,4 +1,3 @@
-` `![corner graphic](Aspose.Words.f388742d-2f80-40b6-988e-5f0e901dafc6.001.png)
 
 **Epidemic Simulator**
 
