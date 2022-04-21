@@ -1,5 +1,4 @@
-
-**Epidemic Simulator**
+# **Epidemic Simulator**
 
 Created by Project Group 26
 
